@@ -129,13 +129,13 @@ The following plots illustrate the neural network's learning process.
 
 This plot compares training accuracy against validation accuracy across the training epochs.
 
-![][image1]
+![](images/image1.png)
 
 ### **Model Loss**
 
 This plot compares training loss against validation loss across the training epochs.
 
-![][image2]
+![](images/image2.png)
 
 These visualizations help assess the model's learning progress and identify potential signs of overfitting or underfitting.
 
